@@ -1,9 +1,11 @@
-import React, {FC} from 'react';
+import React from 'react';
 import './App.css';
+import Products from './components/products/Products';
 
-const App:FC=()=>{
+function App() {
   return (
     <div>
+        <Products/>
     </div>
   );
 }

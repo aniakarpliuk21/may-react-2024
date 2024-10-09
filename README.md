@@ -1,3 +1,4 @@
+In this branch homework 1.
 Project location
 https://github.com/aniakarpliuk21/may-react-2024.git
 
