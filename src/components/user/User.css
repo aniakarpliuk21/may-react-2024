@@ -1,0 +1,17 @@
+.user {
+    width: 22vw;
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.infoOfUser{
+    display: flex;
+    flex-direction: column;
+}
+.user>button{
+    background-color: #b8e3e3;
+    border:1px mediumaquamarine solid;
+    border-radius: 10px;
+    width: 70%;
+
+}
